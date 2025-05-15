@@ -11,6 +11,7 @@
 
 <br/>
 <div>
+
 ## 🧠 About Me
 
 - 📚 AI 개발자를 목표로 학습 중입니다.
@@ -20,20 +21,25 @@
 ---
 
 ## 🧾 Published Papers
+> **Enhancing Sustainability in Machine Learning-based Android Malware Detection using API calls**
+> 📍 *2022 IEEE Fifth International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)*, 2022
+> 🔗 [논문 보기](https://ieeexplore.ieee.org/abstract/document/9939276)
 
-> 📍 *제출 학회명*, 연도  
-> 🔗 [논문 링크 또는 DOI]()
+> **API 콜을 이용한 머신러닝 기반 안드로이드 멀웨어 탐지의 지속가능성 분석 연구**
+> 📍 *한국차세대컴퓨팅학회*, 2022
+> 🔗 [논문 보기](https://www.earticle.net/Article/A412360)
 
+---
 
 
 ## 🧪 Projects
 
-- 📌 **Job-seeker Coding Problem Recommendation System**  
-  사용자 실력 기반 문제 추천 시스템 구현  
+- 📌 **Algorithm and GitHub Repository Recommendation Service**  
+  취준생을 위한 알고리즘 문제 및 깃허브 저장소 추천 서비스
   🔗 [GitHub 바로가기](https://github.com/ghwns82/job-recommend)
 
-- 📌 **Movie Recommendation System**  
-  GRU4Rec + LightGCN 기반 영화 추천  
+- 📌 **Movie Rec**  
+  사용자의 영화 시청 이력 데이터를 기반으로한 다음 시청 및 선호 영화 예측
   🔗 [프로젝트 링크](https://github.com/ghwns82/movie-rec)
 
 ---
@@ -60,6 +66,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height="25"/>
 
 </br>
+
 ---
 
 ## ✨ Contact

@@ -28,11 +28,11 @@
 ## 🧾 Published Papers
 > **Enhancing Sustainability in Machine Learning-based Android Malware Detection using API calls**
 > 📍 *2022 IEEE Fifth International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)*, 2022
-> 🔗 [논문 보기](https://ieeexplore.ieee.org/abstract/document/9939276)
+> 🔗 [link](https://ieeexplore.ieee.org/abstract/document/9939276)
 
 > **API 콜을 이용한 머신러닝 기반 안드로이드 멀웨어 탐지의 지속가능성 분석 연구**
 > 📍 *한국차세대컴퓨팅학회*, 2022
-> 🔗 [논문 보기](https://www.earticle.net/Article/A412360)
+> 🔗 [link](https://www.earticle.net/Article/A412360)
 
 ---
 

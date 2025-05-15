@@ -6,9 +6,9 @@
 <!-- 활동 통계 -->
 <p align="center">
   <a href="https://solved.ac/ghwns82/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghwns82" height="150"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghwns82" height="165" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=ghwns82&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ghwns82&show_icons=true&theme=radical" height="165"/>
 </p>
 
 

@@ -36,7 +36,7 @@
 
 - 📌 **Algorithm and GitHub Repository Recommendation Service**  
   취준생을 위한 알고리즘 문제 및 깃허브 저장소 추천 서비스
-  🔗 [GitHub 바로가기](https://github.com/ghwns82/job-recommend)
+  🔗 [프로젝트 링크](https://github.com/ghwns82/job-recommend)
 
 - 📌 **Movie Rec**  
   사용자의 영화 시청 이력 데이터를 기반으로한 다음 시청 및 선호 영화 예측

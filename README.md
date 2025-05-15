@@ -4,8 +4,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&fontColor=F8F8F8&fontSize=40&section=header&text=Hi%20there!%20I'm%20HoJun%20Lee%20%F0%9F%A4%97)
 
 <!-- 활동 통계 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghwns82)](https://solved.ac/ghwns82/)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ghwns82&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://solved.ac/ghwns82/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghwns82" height="200"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ghwns82&show_icons=true&theme=radical" height="200"/>
+</p>
+
 
 </div>
 
